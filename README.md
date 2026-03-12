@@ -1,15 +1,12 @@
 # OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data
 
 <div align="center">
-  <a href="assets/teaser_benchmarks.pdf">
-    📊 <strong>View Benchmark Results</strong>
-  </a>
-  <p><em>Click the link above to view the full benchmark results PDF</em></p>
+  <img src="assets/teaser_benchmarks.png" alt="Benchmark Results" width="800"/>
 </div>
 
 ## Overview
 
-OpenSeeker is an open-source search agent system that democratizes access to frontier search capabilities by fully open-sourcing its training data. This project enables researchers and developers to build, evaluate, and deploy advanced search agents for complex information-seeking tasks.
+OpenSeeker is an open-source search agent system that democratizes access to frontier search capabilities by fully open-sourcing its training data. Using **11.7K** training examples, we fine-tuned Qwen3-30B-A3B-Thinking-2507 and achieved **48.4** on BrowseComp-ZH, **29.5** on BrowseComp，**74.0** on xbench-DeepSearch, and **59.4** on WideSearch. Our model even surpasses industrial competitors such as Tongyi DeepResearch on BrowseComp-ZH (**48.4%** vs. **46.7%**), despite Tongyi DeepResearch being trained with extensive continual pre-training, supervised fine-tuning, and reinforcement learning. This project enables researchers and developers to build, evaluate, and deploy advanced search agents for complex information-seeking tasks.
 
 ---
 
