@@ -109,6 +109,29 @@ OpenSeeker/
 └── README.md               # This file
 ```
 
+### Star History
 
+<a href="https://www.star-history.com/?repos=rui-ye%2FOpenSeeker&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=rui-ye/OpenSeeker&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=rui-ye/OpenSeeker&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=rui-ye/OpenSeeker&type=date&legend=top-left" />
+ </picture>
+</a>
+
+### Citation
+If you find OpenSeeker useful in your research, please consider citing:
+
+```bibtex
+@misc{du2026openseekerdemocratizingfrontiersearch,
+  title        = {OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data},
+  author       = {Yuwen Du and Rui Ye and Shuo Tang and Xinyu Zhu and Yijun Lu and Yuzhu Cai and Siheng Chen},
+  year         = {2026},
+  eprint       = {2603.15594},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.AI},
+  url          = {https://arxiv.org/abs/2603.15594},
+}
+```
 
 
